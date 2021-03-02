@@ -1,3 +1,3 @@
 # ui-clone-twitter-react
 
-![](twitterpng)
+![](twitterpng.png)
